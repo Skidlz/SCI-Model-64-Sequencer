@@ -406,7 +406,6 @@ Motorola DRAMs&lt;p&gt;
 <attribute name="MPN" value="NTE6850" constant="no"/>
 <attribute name="OC_FARNELL" value="4899775" constant="no"/>
 <attribute name="OC_NEWARK" value="31C2457" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -468,7 +467,6 @@ Motorola DRAMs&lt;p&gt;
 <attribute name="MPN" value="NTE6821" constant="no"/>
 <attribute name="OC_FARNELL" value="1652403" constant="no"/>
 <attribute name="OC_NEWARK" value="29C4772" constant="no"/>
-<attribute name="POPULARITY" value="1" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -832,30 +830,14 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="14"/>
 </connects>
 <technologies>
-<technology name="AC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ACT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ALS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="AS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HC">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
-<technology name="HCT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name="AC"/>
+<technology name="ACT"/>
+<technology name="ALS"/>
+<technology name="AS"/>
+<technology name="HC"/>
+<technology name="HCT"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 <device name="D" package="SO14">
@@ -876,30 +858,14 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="14"/>
 </connects>
 <technologies>
-<technology name="AC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ACT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ALS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="AS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HCT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name="AC"/>
+<technology name="ACT"/>
+<technology name="ALS"/>
+<technology name="AS"/>
+<technology name="HC"/>
+<technology name="HCT"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 <device name="FK" package="LCC20">
@@ -920,30 +886,14 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <technologies>
-<technology name="AC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ACT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ALS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="AS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HCT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name="AC"/>
+<technology name="ACT"/>
+<technology name="ALS"/>
+<technology name="AS"/>
+<technology name="HC"/>
+<technology name="HCT"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 </devices>
@@ -974,24 +924,12 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="14"/>
 </connects>
 <technologies>
-<technology name="AC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ACT">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
-<technology name="HC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HCT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name="AC"/>
+<technology name="ACT"/>
+<technology name="HC"/>
+<technology name="HCT"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 <device name="D" package="SO14">
@@ -1012,24 +950,12 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="14"/>
 </connects>
 <technologies>
-<technology name="AC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ACT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HCT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name="AC"/>
+<technology name="ACT"/>
+<technology name="HC"/>
+<technology name="HCT"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 <device name="FK" package="LCC20">
@@ -1050,24 +976,12 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <technologies>
-<technology name="AC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ACT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HC">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="HCT">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name="AC"/>
+<technology name="ACT"/>
+<technology name="HC"/>
+<technology name="HCT"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 </devices>
@@ -1283,21 +1197,18 @@ Source: http://www.fairchildsemi.com/ds/H1/H11L2-M.pdf</description>
 <attribute name="MPN" value="H11L1-M" constant="no"/>
 <attribute name="OC_FARNELL" value="1021127" constant="no"/>
 <attribute name="OC_NEWARK" value="72K8643" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 <technology name="2">
 <attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" constant="no"/>
 <attribute name="MPN" value="H11L2M" constant="no"/>
 <attribute name="OC_FARNELL" value="1021231" constant="no"/>
 <attribute name="OC_NEWARK" value="72K8645" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 <technology name="3">
 <attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" constant="no"/>
 <attribute name="MPN" value="H11L3-M" constant="no"/>
 <attribute name="OC_FARNELL" value="1021233" constant="no"/>
 <attribute name="OC_NEWARK" value="72K8646" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1315,21 +1226,18 @@ Source: http://www.fairchildsemi.com/ds/H1/H11L2-M.pdf</description>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 <technology name="2">
 <attribute name="MF" value="" constant="no"/>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 <technology name="3">
 <attribute name="MF" value="" constant="no"/>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1347,21 +1255,18 @@ Source: http://www.fairchildsemi.com/ds/H1/H11L2-M.pdf</description>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 <technology name="2">
 <attribute name="MF" value="" constant="no"/>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 <technology name="3">
 <attribute name="MF" value="" constant="no"/>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1498,9 +1403,7 @@ Based on the following sources:
 <connect gate="P" pin="VSS" pad="7"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="D" package="SO14">
@@ -1521,9 +1424,7 @@ Based on the following sources:
 <connect gate="P" pin="VSS" pad="7"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
@@ -1733,21 +1634,11 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="14"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ALS">
-<attribute name="POPULARITY" value="10" constant="no"/>
-</technology>
-<technology name="AS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
+<technology name="ALS"/>
+<technology name="AS"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 <device name="D" package="SO14">
@@ -1768,21 +1659,11 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="14"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="ALS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="AS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
+<technology name="ALS"/>
+<technology name="AS"/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 <device name="FK" package="LCC20">
@@ -1803,15 +1684,9 @@ Based on the following sources:
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="LS">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
-<technology name="S">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
+<technology name="LS"/>
+<technology name="S"/>
 </technologies>
 </device>
 </devices>
@@ -2882,22 +2757,6 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 <rectangle x1="-0.554" y1="-0.3048" x2="-0.254" y2="0.2951" layer="51"/>
 <rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.2951" layer="51"/>
 <rectangle x1="-0.1999" y1="-0.35" x2="0.1999" y2="0.35" layer="35"/>
-</package>
-<package name="R0603">
-<description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
-<wire x1="-0.432" y1="-0.356" x2="0.432" y2="-0.356" width="0.1524" layer="51"/>
-<wire x1="0.432" y1="0.356" x2="-0.432" y2="0.356" width="0.1524" layer="51"/>
-<wire x1="-1.473" y1="0.983" x2="1.473" y2="0.983" width="0.0508" layer="39"/>
-<wire x1="1.473" y1="0.983" x2="1.473" y2="-0.983" width="0.0508" layer="39"/>
-<wire x1="1.473" y1="-0.983" x2="-1.473" y2="-0.983" width="0.0508" layer="39"/>
-<wire x1="-1.473" y1="-0.983" x2="-1.473" y2="0.983" width="0.0508" layer="39"/>
-<smd name="1" x="-0.85" y="0" dx="1" dy="1.1" layer="1"/>
-<smd name="2" x="0.85" y="0" dx="1" dy="1.1" layer="1"/>
-<text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
-<text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="0.4318" y1="-0.4318" x2="0.8382" y2="0.4318" layer="51"/>
-<rectangle x1="-0.8382" y1="-0.4318" x2="-0.4318" y2="0.4318" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
 </package>
 <package name="R0805">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;</description>
@@ -5985,6 +5844,22 @@ Source: AVX .. aphvc.pdf</description>
 <text x="-0.4" y="0.3" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.4" y="-1.6" size="1.27" layer="27">&gt;VALUE</text>
 </package>
+<package name="R0603">
+<description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
+<wire x1="-0.432" y1="-0.356" x2="0.432" y2="-0.356" width="0.1524" layer="21"/>
+<wire x1="0.432" y1="0.356" x2="-0.432" y2="0.356" width="0.1524" layer="21"/>
+<wire x1="-1.473" y1="0.983" x2="1.473" y2="0.983" width="0.0508" layer="39"/>
+<wire x1="1.473" y1="0.983" x2="1.473" y2="-0.983" width="0.0508" layer="39"/>
+<wire x1="1.473" y1="-0.983" x2="-1.473" y2="-0.983" width="0.0508" layer="39"/>
+<wire x1="-1.473" y1="-0.983" x2="-1.473" y2="0.983" width="0.0508" layer="39"/>
+<smd name="1" x="-0.85" y="0" dx="1" dy="1.1" layer="1"/>
+<smd name="2" x="0.85" y="0" dx="1" dy="1.1" layer="1"/>
+<text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
+<text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="0.4318" y1="-0.4318" x2="0.8382" y2="0.4318" layer="21"/>
+<rectangle x1="-0.8382" y1="-0.4318" x2="-0.4318" y2="0.4318" layer="21"/>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+</package>
 </packages>
 <symbols>
 <symbol name="R-US">
@@ -9068,6 +8943,7 @@ Source: http://www.ledtronics.com/ds/smd-0603/Dstr0092.pdf</description>
 <wire x1="0" y1="-2.54" x2="-1.27" y2="-2.54" width="0.254" layer="94"/>
 <wire x1="1.27" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
 <wire x1="0" y1="0" x2="-1.27" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="0" y2="-2.54" width="0.1524" layer="94"/>
 <wire x1="-2.032" y1="-0.762" x2="-3.429" y2="-2.159" width="0.1524" layer="94"/>
 <wire x1="-1.905" y1="-1.905" x2="-3.302" y2="-3.302" width="0.1524" layer="94"/>
 <text x="3.556" y="-4.572" size="1.778" layer="95" rot="R90">&gt;NAME</text>
@@ -9173,9 +9049,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="20" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="LD260" package="LD260">
@@ -9184,9 +9058,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SQR2X5" package="LED2X5">
@@ -9195,9 +9067,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="3MM" package="LED3MM">
@@ -9206,9 +9076,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="97" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="5MM" package="LED5MM">
@@ -9217,9 +9085,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="93" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="LSU260" package="LSU260">
@@ -9228,9 +9094,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="LZR181" package="LZR181">
@@ -9239,9 +9103,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="B152" package="Q62902-B152">
@@ -9250,9 +9112,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="B153" package="Q62902-B153">
@@ -9261,9 +9121,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="B155" package="Q62902-B155">
@@ -9272,9 +9130,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="B156" package="Q62902-B156">
@@ -9283,9 +9139,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SFH480" package="SFH480">
@@ -9294,9 +9148,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SFH482" package="SFH482">
@@ -9305,9 +9157,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SQR5.7X3.2" package="U57X32">
@@ -9316,9 +9166,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="IRL80A" package="IRL80A">
@@ -9327,9 +9175,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="P-LCC-2" package="P-LCC-2">
@@ -9338,9 +9184,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="MINI-TOP" package="OSRAM-MINI-TOP-LED">
@@ -9349,9 +9193,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SIDELED" package="OSRAM-SIDELED">
@@ -9360,9 +9202,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SMART-LED" package="SMART-LED">
@@ -9371,9 +9211,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="B"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="P-LCC-2-BACK" package="P-LCC-2-TOPLED-RG">
@@ -9382,9 +9220,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="MICRO-SIDELED" package="MICRO-SIDELED">
@@ -9393,9 +9229,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="P-LCC-4" package="P-LCC-4">
@@ -9404,9 +9238,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C@4"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="CHIP-LED0603" package="CHIP-LED0603">
@@ -9415,9 +9247,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="26" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="CHIP-LED0805" package="CHIP-LED0805">
@@ -9426,9 +9256,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="68" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="TOPLED-SANTANA" package="MINI-TOPLED-SANTANA">
@@ -9437,9 +9265,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="CHIPLED_0805" package="CHIPLED_0805">
@@ -9448,9 +9274,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="52" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="CHIPLED_1206" package="CHIPLED_1206">
@@ -9459,9 +9283,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="28" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="CHIPLED_0603" package="CHIPLED_0603">
@@ -9470,9 +9292,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="28" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="CHIPLED-0603-TTW" package="CHIPLED-0603-TTW">
@@ -9481,9 +9301,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C@1"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="" package="SMARTLED-TTW">
@@ -9492,9 +9310,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C@1"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="-LUMILED+" package="LUMILED+">
@@ -9503,9 +9319,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="4-"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="-LUMILED" package="LUMILED">
@@ -9514,9 +9328,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="4-"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="10MM" package="LED10MM">
@@ -9525,9 +9337,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="K"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="KA-3528ASYC" package="KA-3528ASYC">
@@ -9536,9 +9346,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SML0805" package="SML0805">
@@ -9547,9 +9355,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="17" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SML1206" package="SML1206">
@@ -9558,9 +9364,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="6" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="SML0603" package="SML0603">
@@ -9569,9 +9373,7 @@ Source: www.kingbright.com</description>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="POPULARITY" value="17" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
@@ -9788,70 +9590,6 @@ Source: www.kingbright.com</description>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
 </technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="thonkiconn">
-<packages>
-<package name="WQP-PJ301M-12_JACK">
-<wire x1="-4.5" y1="6" x2="-1.5" y2="6" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="6" x2="1.5" y2="6" width="0.127" layer="21"/>
-<wire x1="1.5" y1="6" x2="4.5" y2="6" width="0.127" layer="21"/>
-<wire x1="-4.5" y1="6" x2="-4.5" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="-4.5" y1="-4.5" x2="0.2" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="0.2" y1="-4.5" x2="4.5" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="4.5" y1="-4.5" x2="4.5" y2="6" width="0.127" layer="21"/>
-<circle x="0" y="0" radius="3.162275" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="6" x2="-1.5" y2="4" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="4" x2="1.5" y2="4" width="0.127" layer="21"/>
-<wire x1="1.5" y1="4" x2="1.5" y2="6" width="0.127" layer="21"/>
-<pad name="1" x="0" y="5" drill="1.1" thermals="no"/>
-<pad name="2" x="0" y="-3.5" drill="1.1"/>
-<pad name="3" x="0" y="-6.5" drill="1.1"/>
-<circle x="0" y="0" radius="2.690721875" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="-4.6" x2="-0.2" y2="-6.7" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="-6.7" x2="0.2" y2="-6.7" width="0.127" layer="21"/>
-<wire x1="0.2" y1="-6.7" x2="0.2" y2="-4.5" width="0.127" layer="21"/>
-<rectangle x1="-2.8" y1="-2.8" x2="2.8" y2="2.8" layer="41"/>
-<text x="-4.7498" y="-4.4704" size="1.27" layer="21" rot="R90">&gt;NAME</text>
-</package>
-</packages>
-<symbols>
-<symbol name="JACK">
-<wire x1="-2.54" y1="2.54" x2="0" y2="2.54" width="0.1524" layer="94"/>
-<wire x1="0" y1="2.54" x2="1.524" y2="1.016" width="0.1524" layer="94"/>
-<wire x1="1.524" y1="1.016" x2="2.286" y2="1.778" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="0" x2="-0.762" y2="0" width="0.1524" layer="94"/>
-<wire x1="-0.762" y1="0" x2="-0.762" y2="2.286" width="0.1524" layer="94"/>
-<wire x1="-0.762" y1="2.286" x2="-1.016" y2="1.524" width="0.254" layer="94"/>
-<wire x1="-1.016" y1="1.524" x2="-0.508" y2="1.524" width="0.254" layer="94"/>
-<wire x1="-0.508" y1="1.524" x2="-0.762" y2="2.286" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="-2.54" x2="4.572" y2="-2.54" width="0.1524" layer="94"/>
-<text x="-2.54" y="4.064" size="1.778" layer="95">&gt;NAME</text>
-<text x="-2.54" y="-6.096" size="1.778" layer="96">&gt;VALUE</text>
-<rectangle x1="2.286" y1="-0.508" x2="7.874" y2="0.508" layer="94" rot="R90"/>
-<pin name="1" x="-5.08" y="-2.54" visible="pad" length="short" direction="pas"/>
-<pin name="2" x="-5.08" y="2.54" visible="pad" length="short" direction="pas"/>
-<pin name="3" x="-5.08" y="0" visible="pad" length="short" direction="pas"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="WQP-PJ301M-12_JACK" prefix="J">
-<gates>
-<gate name="G$1" symbol="JACK" x="0" y="0"/>
-</gates>
-<devices>
-<device name="PJ301M" package="WQP-PJ301M-12_JACK">
-<connects>
-<connect gate="G$1" pin="1" pad="3"/>
-<connect gate="G$1" pin="2" pad="1"/>
-<connect gate="G$1" pin="3" pad="2"/>
-</connects>
-<technologies>
-<technology name=""/>
 </technologies>
 </device>
 </devices>
@@ -11919,71 +11657,6 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="thonkiconn_eagle_v5 (2)">
-<description>Generated from &lt;b&gt;thonkiconn.sch&lt;/b&gt;&lt;p&gt;
-by exp-project-lbr.ulp</description>
-<packages>
-<package name="JACK-3.5-STEREO">
-<wire x1="-5" y1="6" x2="-5" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="5" y1="-4.5" x2="5" y2="6" width="0.127" layer="21"/>
-<wire x1="-5" y1="6" x2="-1.5" y2="6" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="6" x2="1.5" y2="6" width="0.127" layer="21"/>
-<wire x1="1.5" y1="6" x2="5" y2="6" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="4" x2="1.5" y2="4" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="6" x2="-1.5" y2="4" width="0.127" layer="21"/>
-<wire x1="1.5" y1="4" x2="1.5" y2="6" width="0.127" layer="21"/>
-<wire x1="-5" y1="-4.5" x2="0.2" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="0.2" y1="-4.5" x2="5" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="-4.6" x2="-0.2" y2="-6.7" width="0.127" layer="21"/>
-<wire x1="0.2" y1="-6.7" x2="0.2" y2="-4.5" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="-6.7" x2="0.2" y2="-6.7" width="0.127" layer="21"/>
-<circle x="0" y="0" radius="3.1623" width="0.127" layer="21"/>
-<circle x="0" y="0" radius="2.6907" width="0.127" layer="21"/>
-<pad name="1" x="0" y="5" drill="1.1" thermals="no"/>
-<pad name="2" x="0" y="-3.5" drill="1.1"/>
-<pad name="3" x="0" y="-6.5" drill="1.1"/>
-<pad name="NA" x="0" y="0" drill="3"/>
-<text x="-4.7498" y="-4.4704" size="1.27" layer="25" rot="R90">&gt;NAME</text>
-<rectangle x1="-2.8" y1="-2.8" x2="2.8" y2="2.8" layer="41"/>
-</package>
-</packages>
-<symbols>
-<symbol name="STEREOJACK">
-<wire x1="-2.54" y1="-2.54" x2="4.572" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="0" x2="1.778" y2="0" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="2.54" x2="-0.508" y2="2.54" width="0.1524" layer="94"/>
-<wire x1="-0.508" y1="2.54" x2="0" y2="2.032" width="0.1524" layer="94"/>
-<wire x1="0" y1="2.032" x2="0.762" y2="2.794" width="0.1524" layer="94"/>
-<text x="-2.54" y="-6.096" size="1.778" layer="96">&gt;VALUE</text>
-<rectangle x1="2.286" y1="-0.508" x2="7.874" y2="0.508" layer="94" rot="R90"/>
-<pin name="1" x="-5.08" y="-2.54" visible="pad" length="short" direction="pas"/>
-<pin name="2" x="-5.08" y="2.54" visible="pad" length="short" direction="pas"/>
-<pin name="3" x="-5.08" y="0" visible="pad" length="short" direction="pas"/>
-<text x="-2.54" y="4.064" size="1.778" layer="96">&gt;NAME</text>
-<wire x1="1.778" y1="0" x2="2.286" y2="0.508" width="0.1524" layer="94"/>
-<wire x1="2.286" y1="0.508" x2="3.048" y2="-0.254" width="0.1524" layer="94"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="STEREO-PJ301M" prefix="J">
-<gates>
-<gate name="G$1" symbol="STEREOJACK" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="JACK-3.5-STEREO">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="con-hirschmann">
 <description>&lt;b&gt;Hirschmann Connectors&lt;/b&gt;&lt;p&gt;
 Audio, scart, microphone, headphone&lt;p&gt;
@@ -12427,6 +12100,184 @@ Audio, scart, microphone, headphone&lt;p&gt;
 </deviceset>
 </devicesets>
 </library>
+<library name="N111PCX">
+<packages>
+<package name="SWITCHCRAFT_N111PCX">
+<wire x1="7.874" y1="6.604" x2="7.874" y2="-3.53795" width="0.127" layer="51"/>
+<wire x1="7.874" y1="-3.53795" x2="7.50201875" y2="-4.43598125" width="0.127" layer="51" curve="-45"/>
+<wire x1="7.50201875" y1="-4.43598125" x2="4.43598125" y2="-7.50201875" width="0.127" layer="51"/>
+<wire x1="4.43598125" y1="-7.50201875" x2="3.53795" y2="-7.874" width="0.127" layer="51" curve="-45"/>
+<wire x1="3.53795" y1="-7.874" x2="-6.604" y2="-7.874" width="0.127" layer="51"/>
+<wire x1="-6.604" y1="-7.874" x2="-7.874" y2="-6.604" width="0.127" layer="51" curve="-90"/>
+<wire x1="-7.874" y1="-6.604" x2="-7.874" y2="6.604" width="0.127" layer="51"/>
+<wire x1="-7.874" y1="6.604" x2="-6.604" y2="7.874" width="0.127" layer="51" curve="-90"/>
+<wire x1="-6.604" y1="7.874" x2="6.604" y2="7.874" width="0.127" layer="51"/>
+<wire x1="6.604" y1="7.874" x2="7.874" y2="6.604" width="0.127" layer="51" curve="-90"/>
+<wire x1="7.874" y1="6.604" x2="7.874" y2="1.1608" width="0.127" layer="21"/>
+<wire x1="7.874" y1="1.15" x2="7.874" y2="-3.53795" width="0.127" layer="21"/>
+<wire x1="7.874" y1="-3.53795" x2="7.50201875" y2="-4.43598125" width="0.127" layer="21" curve="-45"/>
+<wire x1="4.43598125" y1="-7.50201875" x2="3.53795" y2="-7.874" width="0.127" layer="21" curve="-45"/>
+<wire x1="3.53795" y1="-7.874" x2="-1.4" y2="-7.874" width="0.127" layer="21"/>
+<wire x1="-0.96" y1="-7.874" x2="-6.604" y2="-7.874" width="0.127" layer="21"/>
+<wire x1="-6.604" y1="-7.874" x2="-7.874" y2="-6.604" width="0.127" layer="21" curve="-90"/>
+<wire x1="-7.874" y1="-6.604" x2="-7.874" y2="-1.65" width="0.127" layer="21"/>
+<wire x1="-7.874" y1="0.55" x2="-7.874" y2="6.604" width="0.127" layer="21"/>
+<wire x1="-7.874" y1="6.604" x2="-6.604" y2="7.874" width="0.127" layer="21" curve="-90"/>
+<wire x1="-6.604" y1="7.874" x2="1.8908" y2="7.874" width="0.127" layer="21"/>
+<wire x1="1.8" y1="7.874" x2="6.604" y2="7.874" width="0.127" layer="21"/>
+<wire x1="6.604" y1="7.874" x2="7.874" y2="6.604" width="0.127" layer="21" curve="-90"/>
+<wire x1="8.174" y1="6.854" x2="8.174" y2="-3.78795" width="0.05" layer="39"/>
+<wire x1="8.174" y1="-3.78795" x2="7.75201875" y2="-4.68598125" width="0.05" layer="39" curve="-45"/>
+<wire x1="7.75201875" y1="-4.68598125" x2="4.68598125" y2="-7.75201875" width="0.05" layer="39"/>
+<wire x1="4.68598125" y1="-7.75201875" x2="3.78795" y2="-8.174" width="0.05" layer="39" curve="-45"/>
+<wire x1="3.78795" y1="-8.174" x2="-6.854" y2="-8.174" width="0.05" layer="39"/>
+<wire x1="-6.854" y1="-8.174" x2="-8.174" y2="-6.854" width="0.05" layer="39" curve="-90"/>
+<wire x1="-8.174" y1="-6.854" x2="-8.174" y2="6.854" width="0.05" layer="39"/>
+<wire x1="-8.174" y1="6.854" x2="-6.854" y2="8.174" width="0.05" layer="39" curve="-90"/>
+<wire x1="-6.854" y1="8.174" x2="6.854" y2="8.174" width="0.05" layer="39"/>
+<wire x1="6.854" y1="8.174" x2="8.174" y2="6.854" width="0.05" layer="39" curve="-90"/>
+<text x="-7.62" y="8.89" size="1.27" layer="25">&gt;NAME</text>
+<text x="-7.62" y="-10.16" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="4.435" y1="-7.5" x2="5.225" y2="-6.71" width="0.127" layer="21"/>
+<wire x1="7.5" y1="-4.44" x2="6.685" y2="-5.255" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="1.7145" width="3.429" layer="30"/>
+<pad name="T" x="-6.35" y="-0.5588" drill="2.159"/>
+<pad name="SLV" x="4.66851875" y="-4.66851875" drill="2.159"/>
+</package>
+</packages>
+<symbols>
+<symbol name="N111PCX">
+<wire x1="-8.89" y1="3.81" x2="-6.35" y2="3.81" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="3.81" x2="-6.35" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-1.27" x2="-8.89" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-8.89" y1="-1.27" x2="-8.89" y2="3.81" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-2.54" x2="5.08" y2="-2.54" width="0.254" layer="94"/>
+<text x="-5.08" y="5.08" size="1.778" layer="95">&gt;NAME</text>
+<text x="-5.08" y="-5.08" size="1.778" layer="96" align="top-left">&gt;VALUE</text>
+<wire x1="-2.54" y1="2.54" x2="-1.27" y2="1.27" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="1.27" x2="0" y2="2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="2.54" x2="5.08" y2="2.54" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-2.54" x2="-6.35" y2="-1.27" width="0.254" layer="94"/>
+<pin name="SLEEVE" x="10.16" y="-2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="TIP" x="10.16" y="2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="N111PCX" prefix="J">
+<gates>
+<gate name="G$1" symbol="N111PCX" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SWITCHCRAFT_N111PCX">
+<connects>
+<connect gate="G$1" pin="SLEEVE" pad="SLV"/>
+<connect gate="G$1" pin="TIP" pad="T"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MANUFACTURER" value="Switchcarft"/>
+<attribute name="MAXIMUM_PACKAGE_HIEGHT" value="28.12mm"/>
+<attribute name="PARTREV" value="A"/>
+<attribute name="STANDARD" value="IPC 7351B"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="N112BPCX">
+<packages>
+<package name="SWITCHCRAFT_N112BPCX">
+<wire x1="7.874" y1="6.604" x2="7.874" y2="-3.53795" width="0.127" layer="51"/>
+<wire x1="7.874" y1="-3.53795" x2="7.50201875" y2="-4.43598125" width="0.127" layer="51" curve="-45"/>
+<wire x1="7.50201875" y1="-4.43598125" x2="4.43598125" y2="-7.50201875" width="0.127" layer="51"/>
+<wire x1="4.43598125" y1="-7.50201875" x2="3.53795" y2="-7.874" width="0.127" layer="51" curve="-45"/>
+<wire x1="3.53795" y1="-7.874" x2="-6.604" y2="-7.874" width="0.127" layer="51"/>
+<wire x1="-6.604" y1="-7.874" x2="-7.874" y2="-6.604" width="0.127" layer="51" curve="-90"/>
+<wire x1="-7.874" y1="-6.604" x2="-7.874" y2="6.604" width="0.127" layer="51"/>
+<wire x1="-7.874" y1="6.604" x2="-6.604" y2="7.874" width="0.127" layer="51" curve="-90"/>
+<wire x1="-6.604" y1="7.874" x2="6.604" y2="7.874" width="0.127" layer="51"/>
+<wire x1="6.604" y1="7.874" x2="7.874" y2="6.604" width="0.127" layer="51" curve="-90"/>
+<wire x1="7.874" y1="6.604" x2="7.874" y2="3.65" width="0.127" layer="21"/>
+<wire x1="7.874" y1="3.7408" x2="7.874" y2="-3.53795" width="0.127" layer="21"/>
+<wire x1="7.874" y1="-3.53795" x2="7.50201875" y2="-4.43598125" width="0.127" layer="21" curve="-45"/>
+<wire x1="4.43598125" y1="-7.50201875" x2="3.53795" y2="-7.874" width="0.127" layer="21" curve="-45"/>
+<wire x1="3.53795" y1="-7.874" x2="-3.5336" y2="-7.874" width="0.127" layer="21"/>
+<wire x1="-3.5" y1="-7.874" x2="-6.604" y2="-7.874" width="0.127" layer="21"/>
+<wire x1="-6.604" y1="-7.874" x2="-7.874" y2="-6.604" width="0.127" layer="21" curve="-90"/>
+<wire x1="-7.874" y1="-6.604" x2="-7.874" y2="-1.65" width="0.127" layer="21"/>
+<wire x1="-7.874" y1="0.55" x2="-7.874" y2="6.604" width="0.127" layer="21"/>
+<wire x1="-7.874" y1="6.604" x2="-6.604" y2="7.874" width="0.127" layer="21" curve="-90"/>
+<wire x1="-6.604" y1="7.874" x2="-0.7" y2="7.874" width="0.127" layer="21"/>
+<wire x1="1.8" y1="7.874" x2="6.604" y2="7.874" width="0.127" layer="21"/>
+<wire x1="6.604" y1="7.874" x2="7.874" y2="6.604" width="0.127" layer="21" curve="-90"/>
+<wire x1="8.174" y1="6.854" x2="8.174" y2="-3.78795" width="0.05" layer="39"/>
+<wire x1="8.174" y1="-3.78795" x2="7.75201875" y2="-4.68598125" width="0.05" layer="39" curve="-45"/>
+<wire x1="7.75201875" y1="-4.68598125" x2="4.68598125" y2="-7.75201875" width="0.05" layer="39"/>
+<wire x1="4.68598125" y1="-7.75201875" x2="3.78795" y2="-8.174" width="0.05" layer="39" curve="-45"/>
+<wire x1="3.78795" y1="-8.174" x2="-6.854" y2="-8.174" width="0.05" layer="39"/>
+<wire x1="-6.854" y1="-8.174" x2="-8.174" y2="-6.854" width="0.05" layer="39" curve="-90"/>
+<wire x1="-8.174" y1="-6.854" x2="-8.174" y2="6.854" width="0.05" layer="39"/>
+<wire x1="-8.174" y1="6.854" x2="-6.854" y2="8.174" width="0.05" layer="39" curve="-90"/>
+<wire x1="-6.854" y1="8.174" x2="6.854" y2="8.174" width="0.05" layer="39"/>
+<wire x1="6.854" y1="8.174" x2="8.174" y2="6.854" width="0.05" layer="39" curve="-90"/>
+<text x="-7.62" y="8.89" size="1.27" layer="25">&gt;NAME</text>
+<text x="-7.62" y="-10.16" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="4.435" y1="-7.5" x2="5.225" y2="-6.71" width="0.127" layer="21"/>
+<wire x1="7.5" y1="-4.44" x2="6.685" y2="-5.255" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="1.7145" width="3.429" layer="30"/>
+<pad name="R" x="0.5588" y="6.35" drill="2.159"/>
+<pad name="T" x="-6.35" y="-0.5588" drill="2.159"/>
+<pad name="SLV" x="4.66851875" y="-4.66851875" drill="2.159"/>
+</package>
+</packages>
+<symbols>
+<symbol name="N112BPCX">
+<wire x1="-8.89" y1="1.27" x2="-6.35" y2="1.27" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="1.27" x2="-6.35" y2="-3.81" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-3.81" x2="-8.89" y2="-3.81" width="0.254" layer="94"/>
+<wire x1="-8.89" y1="-3.81" x2="-8.89" y2="1.27" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-5.08" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
+<text x="-5.08" y="5.08" size="1.778" layer="95">&gt;NAME</text>
+<text x="-5.08" y="-7.62" size="1.778" layer="96" align="top-left">&gt;VALUE</text>
+<wire x1="-2.54" y1="0" x2="-1.27" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="-1.27" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="5.08" y2="0" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-5.08" x2="-6.35" y2="-3.81" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="2.54" x2="-3.81" y2="1.27" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="1.27" x2="-2.54" y2="2.54" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="2.54" x2="5.08" y2="2.54" width="0.254" layer="94"/>
+<pin name="SLEEVE" x="10.16" y="-5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="TIP" x="10.16" y="0" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="RING" x="10.16" y="2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="N112BPCX" prefix="J">
+<gates>
+<gate name="G$1" symbol="N112BPCX" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SWITCHCRAFT_N112BPCX">
+<connects>
+<connect gate="G$1" pin="RING" pad="R"/>
+<connect gate="G$1" pin="SLEEVE" pad="SLV"/>
+<connect gate="G$1" pin="TIP" pad="T"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MANUFACTURER" value="Switchcarft"/>
+<attribute name="MAXIMUM_PACKAGE_HIEGHT" value="28.12mm"/>
+<attribute name="PARTREV" value="A"/>
+<attribute name="STANDARD" value="IPC 7351B"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -12500,12 +12351,10 @@ Audio, scart, microphone, headphone&lt;p&gt;
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="P+20" library="supply1" deviceset="+5V" device=""/>
 <part name="C1" library="rcl" deviceset="C-EU" device="050-024X044" value="100n"/>
-<part name="J2" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device="PJ301M" value="PJ301M"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R9" library="rcl" deviceset="R-US_" device="0207/12" value="100k"/>
 <part name="R5" library="rcl" deviceset="R-US_" device="0207/12" value="1M"/>
 <part name="P+21" library="supply1" deviceset="+5V" device=""/>
-<part name="J1" library="thonkiconn_eagle_v5 (2)" deviceset="STEREO-PJ301M" device="" value="S-PJ301M"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="P+22" library="supply1" deviceset="+5V" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
@@ -12555,6 +12404,8 @@ Audio, scart, microphone, headphone&lt;p&gt;
 <part name="J3" library="Commodore" deviceset="C64-EXPANSIONP" device="NARROW" value="C64-EXPANSION-PORT"/>
 <part name="P+36" library="supply1" deviceset="+5V" device=""/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>
+<part name="J2" library="N111PCX" deviceset="N111PCX" device=""/>
+<part name="J1" library="N112BPCX" deviceset="N112BPCX" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -12577,7 +12428,7 @@ Drawn By Zack Nelson</text>
 <wire x1="312.42" y1="12.7" x2="342.9" y2="12.7" width="0.1524" layer="97"/>
 <text x="20.32" y="165.1" size="1.778" layer="97">Clock Source</text>
 <text x="7.62" y="127" size="1.778" layer="97">Start/Stop</text>
-<text x="7.62" y="162.56" size="1.778" layer="97">Clock In</text>
+<text x="7.62" y="165.1" size="1.778" layer="97">Clock In</text>
 <text x="294.64" y="124.46" size="1.778" layer="97">Cartridge Connector</text>
 </plain>
 <instances>
@@ -12896,12 +12747,8 @@ Drawn By Zack Nelson</text>
 <attribute name="NAME" x="38.481" y="120.396" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="33.401" y="120.396" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="J2" gate="G$1" x="15.24" y="119.38" smashed="yes" rot="MR0">
-<attribute name="NAME" x="17.78" y="123.444" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="17.78" y="113.284" size="1.778" layer="96" rot="MR0"/>
-</instance>
-<instance part="GND7" gate="1" x="22.86" y="111.76" smashed="yes">
-<attribute name="VALUE" x="20.32" y="109.22" size="1.778" layer="96"/>
+<instance part="GND7" gate="1" x="25.4" y="111.76" smashed="yes">
+<attribute name="VALUE" x="22.86" y="109.22" size="1.778" layer="96"/>
 </instance>
 <instance part="R9" gate="G$1" x="55.88" y="160.02" smashed="yes" rot="R180">
 <attribute name="NAME" x="59.69" y="158.5214" size="1.778" layer="95" rot="R180"/>
@@ -12913,10 +12760,6 @@ Drawn By Zack Nelson</text>
 </instance>
 <instance part="P+21" gate="1" x="48.26" y="177.8" smashed="yes">
 <attribute name="VALUE" x="45.72" y="172.72" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="J1" gate="G$1" x="15.24" y="154.94" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="17.78" y="148.844" size="1.778" layer="96" rot="MR0"/>
-<attribute name="NAME" x="17.78" y="159.004" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="GND8" gate="1" x="292.1" y="10.16" smashed="yes">
 <attribute name="VALUE" x="289.56" y="7.62" size="1.778" layer="96"/>
@@ -13092,6 +12935,14 @@ Drawn By Zack Nelson</text>
 </instance>
 <instance part="GND27" gate="1" x="231.14" y="12.7" smashed="yes">
 <attribute name="VALUE" x="228.6" y="10.16" size="1.778" layer="96"/>
+</instance>
+<instance part="J2" gate="G$1" x="12.7" y="119.38" smashed="yes">
+<attribute name="NAME" x="7.62" y="124.46" size="1.778" layer="95"/>
+<attribute name="VALUE" x="7.62" y="114.3" size="1.778" layer="96" align="top-left"/>
+</instance>
+<instance part="J1" gate="G$1" x="12.7" y="157.48" smashed="yes">
+<attribute name="NAME" x="7.62" y="162.56" size="1.778" layer="95"/>
+<attribute name="VALUE" x="7.62" y="149.86" size="1.778" layer="96" align="top-left"/>
 </instance>
 </instances>
 <busses>
@@ -13510,16 +13361,16 @@ Drawn By Zack Nelson</text>
 <junction x="208.28" y="147.32"/>
 </segment>
 <segment>
-<wire x1="20.32" y1="152.4" x2="25.4" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="152.4" x2="25.4" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="GND6" gate="1" pin="GND"/>
 <wire x1="25.4" y1="152.4" x2="25.4" y2="149.86" width="0.1524" layer="91"/>
-<pinref part="J1" gate="G$1" pin="1"/>
+<pinref part="J1" gate="G$1" pin="SLEEVE"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="1"/>
 <pinref part="GND7" gate="1" pin="GND"/>
-<wire x1="20.32" y1="116.84" x2="22.86" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="116.84" x2="22.86" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="116.84" x2="25.4" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="116.84" x2="25.4" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="J2" gate="G$1" pin="SLEEVE"/>
 </segment>
 <segment>
 <pinref part="S1" gate="-2" pin="2"/>
@@ -13958,11 +13809,13 @@ Drawn By Zack Nelson</text>
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="45.72" y1="154.94" x2="40.64" y2="154.94" width="0.1524" layer="91"/>
-<pinref part="J1" gate="G$1" pin="3"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="40.64" y1="154.94" x2="20.32" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="154.94" x2="25.4" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="40.64" y1="162.56" x2="40.64" y2="154.94" width="0.1524" layer="91"/>
 <junction x="40.64" y="154.94"/>
+<pinref part="J1" gate="G$1" pin="TIP"/>
+<wire x1="22.86" y1="157.48" x2="25.4" y2="157.48" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="157.48" x2="25.4" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$34" class="0">
@@ -13980,11 +13833,11 @@ Drawn By Zack Nelson</text>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
 <wire x1="33.02" y1="121.92" x2="27.94" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="J2" gate="G$1" pin="2"/>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="27.94" y1="121.92" x2="20.32" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="121.92" x2="22.86" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="124.46" x2="27.94" y2="121.92" width="0.1524" layer="91"/>
 <junction x="27.94" y="121.92"/>
+<pinref part="J2" gate="G$1" pin="TIP"/>
 </segment>
 </net>
 <net name="N$36" class="0">
@@ -14007,11 +13860,9 @@ Drawn By Zack Nelson</text>
 </net>
 <net name="N$38" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="2"/>
-<wire x1="20.32" y1="157.48" x2="22.86" y2="157.48" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="157.48" x2="22.86" y2="160.02" width="0.1524" layer="91"/>
 <pinref part="S1" gate="-7" pin="2"/>
-<wire x1="22.86" y1="160.02" x2="25.4" y2="160.02" width="0.1524" layer="91"/>
+<pinref part="J1" gate="G$1" pin="RING"/>
+<wire x1="25.4" y1="160.02" x2="22.86" y2="160.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$39" class="0">
@@ -14455,17 +14306,6 @@ Drawn By Zack Nelson</text>
 <label x="81.28" y="63.5" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-</nets>
-</sheet>
-<sheet>
-<description>con</description>
-<plain>
-</plain>
-<instances>
-</instances>
-<busses>
-</busses>
-<nets>
 </nets>
 </sheet>
 </sheets>
